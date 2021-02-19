@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄我是 itzhouq, 很高兴你点开了我的主页😄
+😄我是 itzhouq, 很高兴你点开了我的主页😄 <br/>
+
+
 I'm so glad you could come.
 - 🔭 I’m a java backend engineer
 - 🌱 I’m currently learning Java/Spring/Micro-Services
