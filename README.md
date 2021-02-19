@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄我是 itzhouq, 很高兴你点开了我的主页😄
+I'm so glad you could come.
+- 🔭 I’m a java backend engineer
+- 🌱 I’m currently learning Java/Spring/Micro-Services
+- 👯 I have a host of website: [itzhouq's Blog](http://blog.itzhouq.cn/)
+- 📫 How to reach me: itzhouq@163.com
